@@ -4,16 +4,6 @@ Aspect-Based Sentiment Analysis (ABSA) and Comparative Customer Intelligence Das
 
 ---
 
-## 📷 Dashboard Preview
-
-> **Add your dashboard screenshot here**
-
-<p align="center">
-  <img src="images/dashboard.png" alt="Quick Commerce ABSA Dashboard" width="100%">
-</p>
-
----
-
 ## 🚀 Project Overview
 
 This project analyzes customer reviews from two leading Quick Commerce platforms:
